@@ -1,0 +1,138 @@
+2023-02-15 18:27:29,580 :INFO : test_e2e :Getting all the card items
+2023-02-15 18:27:29,624 :INFO : test_e2e :iphone X
+2023-02-15 18:27:29,655 :INFO : test_e2e :Samsung Note 8
+2023-02-15 18:27:29,682 :INFO : test_e2e :Nokia Edge
+2023-02-15 18:27:29,707 :INFO : test_e2e :Blackberry
+2023-02-15 18:27:29,935 :INFO : test_e2e :Entering Country Name as ind
+2023-02-15 18:27:35,563 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-02-16 14:07:47,961 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:07:48,880 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:07:48,880 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:07:57,088 :INFO : test_e2e :Getting all the card items
+2023-02-16 14:07:57,146 :INFO : test_e2e :iphone X
+2023-02-16 14:07:57,169 :INFO : test_e2e :Samsung Note 8
+2023-02-16 14:07:57,196 :INFO : test_e2e :Nokia Edge
+2023-02-16 14:07:57,227 :INFO : test_e2e :Blackberry
+2023-02-16 14:07:57,467 :INFO : test_e2e :Entering Country Name as ind
+2023-02-16 14:08:03,123 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-02-16 14:10:01,167 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:10:02,053 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:10:02,053 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:10:08,766 :INFO : test_e2e :Getting all the card items
+2023-02-16 14:10:08,832 :INFO : test_e2e :iphone X
+2023-02-16 14:10:08,861 :INFO : test_e2e :Samsung Note 8
+2023-02-16 14:10:08,897 :INFO : test_e2e :Nokia Edge
+2023-02-16 14:10:08,926 :INFO : test_e2e :Blackberry
+2023-02-16 14:10:09,201 :INFO : test_e2e :Entering Country Name as ind
+2023-02-16 14:10:14,936 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-02-16 14:40:50,838 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:40:51,785 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:40:51,785 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:40:58,613 :INFO : test_e2e :Getting all the card items
+2023-02-16 14:40:58,672 :INFO : test_e2e :iphone X
+2023-02-16 14:40:58,697 :INFO : test_e2e :Samsung Note 8
+2023-02-16 14:40:58,720 :INFO : test_e2e :Nokia Edge
+2023-02-16 14:40:58,744 :INFO : test_e2e :Blackberry
+2023-02-16 14:40:58,994 :INFO : test_e2e :Entering Country Name as ind
+2023-02-16 14:41:04,683 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-02-16 14:43:36,839 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:43:37,522 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:43:37,522 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:43:43,854 :INFO : test_e2e :Getting all the card items
+2023-02-16 14:43:43,906 :INFO : test_e2e :iphone X
+2023-02-16 14:43:43,930 :INFO : test_e2e :Samsung Note 8
+2023-02-16 14:43:43,952 :INFO : test_e2e :Nokia Edge
+2023-02-16 14:43:43,978 :INFO : test_e2e :Blackberry
+2023-02-16 14:43:44,180 :INFO : test_e2e :Entering Country Name as ind
+2023-02-16 14:43:49,691 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-02-16 14:46:10,692 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:46:11,352 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:46:11,352 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:46:16,990 :INFO : test_e2e :Getting all the card items
+2023-02-16 14:46:17,033 :INFO : test_e2e :iphone X
+2023-02-16 14:46:17,058 :INFO : test_e2e :Samsung Note 8
+2023-02-16 14:46:17,082 :INFO : test_e2e :Nokia Edge
+2023-02-16 14:46:17,110 :INFO : test_e2e :Blackberry
+2023-02-16 14:46:17,313 :INFO : test_e2e :Entering Country Name as ind
+2023-02-16 14:46:22,772 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-02-16 14:47:58,710 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:47:59,389 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:47:59,389 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:48:05,276 :INFO : test_e2e :Getting all the card items
+2023-02-16 14:48:05,329 :INFO : test_e2e :iphone X
+2023-02-16 14:48:05,351 :INFO : test_e2e :Samsung Note 8
+2023-02-16 14:48:05,373 :INFO : test_e2e :Nokia Edge
+2023-02-16 14:48:05,397 :INFO : test_e2e :Blackberry
+2023-02-16 14:48:05,603 :INFO : test_e2e :Entering Country Name as ind
+2023-02-16 14:48:11,064 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-02-16 14:50:01,775 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:50:02,463 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:50:02,463 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 14:50:08,140 :INFO : test_e2e :Getting all the card items
+2023-02-16 14:50:08,187 :INFO : test_e2e :iphone X
+2023-02-16 14:50:08,214 :INFO : test_e2e :Samsung Note 8
+2023-02-16 14:50:08,238 :INFO : test_e2e :Nokia Edge
+2023-02-16 14:50:08,263 :INFO : test_e2e :Blackberry
+2023-02-16 14:50:08,461 :INFO : test_e2e :Entering Country Name as ind
+2023-02-16 14:50:14,018 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-02-16 16:05:23,964 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 16:05:24,794 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 16:05:24,794 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 16:05:31,844 :INFO : test_e2e :Getting all the card items
+2023-02-16 16:05:32,262 :INFO : test_e2e :iphone X
+2023-02-16 16:05:32,319 :INFO : test_e2e :Samsung Note 8
+2023-02-16 16:05:32,351 :INFO : test_e2e :Nokia Edge
+2023-02-16 16:05:32,390 :INFO : test_e2e :Blackberry
+2023-02-16 16:05:32,691 :INFO : test_e2e :Entering Country Name as ind
+2023-02-16 16:05:38,329 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-02-16 16:06:17,101 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 16:06:18,005 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 16:06:18,005 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 16:06:27,569 :INFO : test_e2e :Getting all the card items
+2023-02-16 16:06:27,660 :INFO : test_e2e :iphone X
+2023-02-16 16:06:27,712 :INFO : test_e2e :Samsung Note 8
+2023-02-16 16:06:27,748 :INFO : test_e2e :Nokia Edge
+2023-02-16 16:06:27,782 :INFO : test_e2e :Blackberry
+2023-02-16 16:06:28,093 :INFO : test_e2e :Entering Country Name as ind
+2023-02-16 16:06:33,930 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-02-16 16:30:59,868 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 16:31:00,736 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 16:31:00,736 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 16:31:10,193 :INFO : test_e2e :Getting all the card items
+2023-02-16 16:31:10,291 :INFO : test_e2e :iphone X
+2023-02-16 16:31:10,329 :INFO : test_e2e :Samsung Note 8
+2023-02-16 16:31:10,373 :INFO : test_e2e :Nokia Edge
+2023-02-16 16:31:10,406 :INFO : test_e2e :Blackberry
+2023-02-16 16:31:10,712 :INFO : test_e2e :Entering Country Name as ind
+2023-02-16 16:31:16,446 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-02-16 16:45:27,599 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 16:45:28,345 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 16:45:28,345 :INFO : test_FormSubmission :first name isRahul
+2023-02-16 16:45:36,977 :INFO : test_e2e :Getting all the card items
+2023-02-16 16:45:37,026 :INFO : test_e2e :iphone X
+2023-02-16 16:45:37,053 :INFO : test_e2e :Samsung Note 8
+2023-02-16 16:45:37,076 :INFO : test_e2e :Nokia Edge
+2023-02-16 16:45:37,103 :INFO : test_e2e :Blackberry
+2023-02-16 16:45:37,337 :INFO : test_e2e :Entering Country Name as ind
+2023-02-16 16:45:42,963 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-02-16 18:18:28,718 :INFO : test_FormSubmission :first name isShubham
+2023-02-16 18:18:37,527 :INFO : test_e2e :Getting all the card items
+2023-02-16 18:18:37,591 :INFO : test_e2e :iphone X
+2023-02-16 18:18:37,625 :INFO : test_e2e :Samsung Note 8
+2023-02-16 18:18:37,661 :INFO : test_e2e :Nokia Edge
+2023-02-16 18:18:37,692 :INFO : test_e2e :Blackberry
+2023-02-16 18:18:38,086 :INFO : test_e2e :Entering Country Name as ind
+2023-02-16 18:18:43,921 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
